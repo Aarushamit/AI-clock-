@@ -1,2 +1,2 @@
-# AI-clock-
-An AI  based clock 
+# p5.play-boilerplate
+Boiler plate for p5.play
